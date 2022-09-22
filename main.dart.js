@@ -51224,7 +51224,7 @@ q=X.a3B(C.bc,V.a1X(s,s,s,s,s,0,s,s,s,s,s,s,s,s,s),C.L,q,C.k,new P.J(4280230180),
 q=X.a3B(C.bc,V.a1X(s,s,s,s,s,0,s,s,s,s,s,s,s,s,s),C.U,q,C.j,C.j,C.iB,r,C.j,C.bc)}return new S.qO(new Y.qi(s),"Mike Karpenko",q,!1,s)}}
 K.oY.prototype={
 P:function(a,b){var s=null,r=t.p
-r=T.pr(new T.iR(C.mK,T.afv(H.a([new K.xl(U.ml("images/avatar.png",s,s).c,100,s),T.eQ(s,20,s),L.nH("Mike Karpenko",s,s,s,4),T.eQ(s,20,s),L.nH("iOS. Flutter. FPV. Music.\nLikes Traveling.",K.aX(b).a7.Q,C.bP,s,2),T.eQ(s,40,s),T.SP(H.a([N.XN(T.eQ(U.ml("images/github.png",s,s),20,20),L.nH("Github",s,s,s,s),new K.JZ()),N.XN(T.eQ(U.ml("images/twitter.png",s,s),20,20),L.nH("Twitter",s,s,s,s),new K.K_())],r),C.c4,C.eJ,C.dl),T.SP(H.a([N.XN(T.eQ(U.ml("images/instagram.png",s,s),20,20),L.nH("Instagram",s,s,s,s),new K.K0()),N.XN(T.eQ(U.ml("images/linkedin.png",s,s),20,20),L.nH("Linkedin",s,s,s,s),new K.K1())],r),C.c4,C.eJ,C.dl)],r),C.c4,C.dk),s),s,s)
+r=T.pr(new T.iR(C.mK,T.afv(H.a([new K.xl(U.ml("images/avatar.png",s,s).c,100,s),T.eQ(s,20,s),L.nH("Mike Karpenko",s,s,s,4),T.eQ(s,20,s),L.nH("iOS. Rust. FPV. Music.\nLikes Traveling.",K.aX(b).a7.Q,C.bP,s,2),T.eQ(s,40,s),T.SP(H.a([N.XN(T.eQ(U.ml("images/github.png",s,s),20,20),L.nH("Github",s,s,s,s),new K.JZ()),N.XN(T.eQ(U.ml("images/twitter.png",s,s),20,20),L.nH("Twitter",s,s,s,s),new K.K_())],r),C.c4,C.eJ,C.dl),T.SP(H.a([N.XN(T.eQ(U.ml("images/instagram.png",s,s),20,20),L.nH("Instagram",s,s,s,s),new K.K0()),N.XN(T.eQ(U.ml("images/linkedin.png",s,s),20,20),L.nH("Linkedin",s,s,s,s),new K.K1())],r),C.c4,C.eJ,C.dl)],r),C.c4,C.dk),s),s,s)
 return new E.BZ(!0,r,s)}}
 K.JZ.prototype={
 $0:function(){return C.a_.pW(window,"https://github.com/mikhailokarpenko/","mikekarpenko")},
